@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+detalleContenido{
+    width: 12%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+}
